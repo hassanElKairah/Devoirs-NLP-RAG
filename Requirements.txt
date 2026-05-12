@@ -42,10 +42,3 @@ langchain-text-splitters
 # Interface web
 gradio
 
-# Optionnel : présent dans l'ancien requirements.txt du projet Week4
-networkx
-
-# Modèles spaCy utilisés dans les notebooks :
-# Après l'installation, exécuter aussi :
-# python -m spacy download fr_core_news_sm
-# python -m spacy download xx_ent_wiki_sm
