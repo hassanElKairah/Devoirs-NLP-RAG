@@ -1,0 +1,18 @@
+{
+  "project": "Devoir 3 - SNORT RAG",
+  "dataset_type": "personal synthetic dataset",
+  "n_documents": 160,
+  "n_test_queries": 32,
+  "families": [
+    "Brute_Force",
+    "DNS_Attack",
+    "DoS_DDoS",
+    "Exploitation",
+    "Malware_C2",
+    "Policy_Violation",
+    "Reconnaissance",
+    "Web_Attack"
+  ],
+  "generation_method": "manual cybersecurity templates enriched by controlled synthetic variations",
+  "note": "No Kaggle/GitHub/public ready-made labeled dataset was used."
+}

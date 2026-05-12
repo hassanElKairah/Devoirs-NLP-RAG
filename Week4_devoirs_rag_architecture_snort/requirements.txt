@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
+ipykernel
+gradio
+faiss-cpu
+sentence-transformers
+networkx
