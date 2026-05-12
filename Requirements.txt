@@ -1,0 +1,51 @@
+# Requirements globaux pour tout le repository NLP/RAG
+# Installer avec :
+# pip install -r requirements.txt
+
+# Notebooks / environnement
+jupyter
+ipykernel
+notebook
+
+# Data processing
+pandas
+numpy
+scikit-learn
+matplotlib
+
+# NLP classique
+nltk
+spacy
+pyarabic
+
+# PDF / web scraping
+PyPDF2
+PyMuPDF
+requests
+beautifulsoup4
+selenium
+webdriver-manager
+
+# RAG / embeddings / LLM
+sentence-transformers
+faiss-cpu
+transformers
+accelerate
+torch
+
+# LangChain
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# Interface web
+gradio
+
+# Optionnel : présent dans l'ancien requirements.txt du projet Week4
+networkx
+
+# Modèles spaCy utilisés dans les notebooks :
+# Après l'installation, exécuter aussi :
+# python -m spacy download fr_core_news_sm
+# python -m spacy download xx_ent_wiki_sm
