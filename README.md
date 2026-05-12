@@ -149,29 +149,6 @@ The `data/` folder contains:
 
 ---
 
-## Documentation
 
-The `docs/` folder contains:
 
-* `dataset_methodology.md` : Description of datasets and methodology.
-* `rapport_devoir3.md` : Report on Snort RAG experiments.
 
----
-
-## Contributing
-
-* Please create an issue before submitting a PR.
-* Follow PEP8 guidelines.
-* Ensure notebooks run sequentially without errors.
-
----
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Contact
-
-For questions, contact: [hassanElKairah@example.com](mailto:hassanElKairah@example.com)
